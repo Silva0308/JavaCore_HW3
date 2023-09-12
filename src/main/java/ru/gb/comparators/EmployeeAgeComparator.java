@@ -1,4 +1,6 @@
-package ru.gb.employers;
+package ru.gb.comparators;
+
+import ru.gb.employers.Employee;
 
 import java.util.Comparator;
 
